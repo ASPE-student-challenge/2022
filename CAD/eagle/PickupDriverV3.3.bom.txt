@@ -1,0 +1,40 @@
+Partlist exported from C:/Users/MiUsuario/Documents/eagle/TwinTeeth/PickupDriverV3.3.sch at 06/11/2015 9:26:38
+
+Assembly variant: 
+
+Qty Value        Device        Parts             
+1                XF2H-4515-1LW J1                
+4   0.1uf        C-EUC1206K    C13, C17, C19, C21
+2   0R-JUMPA     0R-JUMPA      JMP1, JMP2        
+4   1K2          R-EU_R1206    R10, R23, R24, R25
+3   2k2          R-EU_R1206    R19, R26, R27     
+3   10K          R-EU_R1206    R2, R4, R9        
+2   10Pf         C-EUC1206K    C8, C9            
+2   18K          R-EU_R1206    R1, R3            
+1   18k          R-EU_R1206    R28               
+2   22Pf         C-EUC1206K    C5, C6            
+4   22k          R-EU_R1206    R7, R13, R14, R22 
+2   22uf         CPOL-EUSMCC   C1, C15           
+2   33nf         C-EUC1206K    C3, C11           
+2   39K          R-EU_R1206    R8, R21           
+2   39pf         C-EUC1206K    C2, C4            
+1   47k          R-EU_R1206    R12               
+2   56K          R-EU_R1206    R5, R6            
+1   60           R-EU_R1206    R17               
+2   68K          R-EU_R1206    R16, R20          
+1   100Pf        C-EUC1206K    C7                
+1   100nF        C-EUC1206K    C12               
+3   100uf        CPOL-EUSMCC   C10, C16, C18     
+1   100uh        CHOKE-100UH   L1                
+2   180K         R-EU_R1206    R11, R15          
+2   1800pf       C-EUC1206K    C14, C20          
+1   Analog Power PINHD-1X2     JP4               
+1   FE Output    PINHD-1X1     JP5               
+1   LD Control   PINHD-1X4     JP1               
+1   LD PWM       PINHD-1X1     JP6               
+2   LMV321M5     LMV321M5      IC1, IC5          
+1   Lens PWM     PINHD-1X1     JP3               
+1   RF           PINHD-1X2     JP2               
+1   TC4425AVOA   TC4425AVOA    IC2               
+1   TLC2272D     TLC2272D      IC3               
+1   TLC2274      TLC274D       IC4               
